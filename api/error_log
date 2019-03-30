@@ -1,0 +1,4 @@
+[06-Jul-2018 14:24:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/u5601531/public_html/subdomain/antrian/api/application/controllers/api/antrian/Pantau.php on line 45
+[07-Jul-2018 01:47:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u5601531/public_html/subdomain/antrian/api/application/controllers/api/Auth.php on line 111
+[07-Jul-2018 01:48:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u5601531/public_html/subdomain/antrian/api/application/controllers/api/Auth.php on line 111
+[12-Jul-2018 23:04:50 UTC] PHP Fatal error:  Call to undefined function now() in /home/u5601531/public_html/subdomain/antrian/api/application/controllers/api/Auth.php on line 45
